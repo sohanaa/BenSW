@@ -1,1 +1,1 @@
-# BenSW is a standard Bengali stop word dataset that contains 20k Bengali sentences and the annotations are done manually. The 20k dataset is collected from online and offline newspapers, blogs, books, magazines, etc.
+BenSW is a standard Bengali stop word dataset that contains 20k Bengali sentences and the annotations are done manually. The 20k dataset is collected from online and offline newspapers, blogs, books, magazines, etc.
